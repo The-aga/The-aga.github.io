@@ -1,9 +1,16 @@
 html{
 
     background-color:pink;
-
 }
 
+p{
+     font-size:23px;
+     font-family:'Times New Roman', Times, serif;
+     font-style: normal;
+}
 
+h1{
+     font-size:35px;
+     color:gray;
 
-
+}
